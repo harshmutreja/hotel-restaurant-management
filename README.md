@@ -24,6 +24,9 @@ The team ran a cognitive walkthrough and three user scenarios, then suggested im
 ## Project report
 
 [Harsh_Mutreja_Contribution.pdf](https://github.com/user-attachments/files/33213776/Harsh_Mutreja_Contribution.pdf)
+[Paradise_View_Report_Github (1).pdf](https://github.com/user-attachments/files/33213824/Paradise_View_Report_Github.1.pdf)
+
+
 
 
 ## Team
