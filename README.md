@@ -23,7 +23,7 @@ The team ran a cognitive walkthrough and three user scenarios, then suggested im
 
 ## Project report
 
-[Paradise_View_Report_Github.pdf](https://github.com/user-attachments/files/33213616/Paradise_View_Report_Github.pdf)
+[Harsh_Mutreja_Contribution.pdf](https://github.com/user-attachments/files/33213776/Harsh_Mutreja_Contribution.pdf)
 
 
 ## Team
